@@ -1,0 +1,7 @@
+path: datasets/dronevsbird/
+train: train
+val: valid
+test:
+
+names:
+  0: drone

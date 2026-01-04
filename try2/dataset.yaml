@@ -1,0 +1,7 @@
+path: datasets/Anti-UAV-RGBT-YOLO/
+train: train
+val: val
+test: test
+
+names:
+  0: drone
