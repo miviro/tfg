@@ -1,0 +1,7 @@
+path: datasets/seraphim/
+train: train
+val:
+test: test
+
+names:
+  0: drone
